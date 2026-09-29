@@ -1,0 +1,9 @@
+(
+echo .venv/
+echo __pycache__/
+echo *.pyc
+echo .DS_Store
+echo .env
+echo *.csv
+echo data/
+) > .gitignore
